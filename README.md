@@ -2,10 +2,10 @@
 
 ## I. THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Nguyễn Hữu Trường
-- **Mã số sinh viên:** 24810320290
+- **Họ và tên:** Khổng Minh Hiếu
+- **Mã số sinh viên:** 24810320250
 - **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
-- **Link Repository:** https://github.com/truong-blue/LTNET-TEST02_24810320290_NguyenHuuTruong.git
+- **Link Repository:** https://github.com/khongminhhieu1805/LTNET-TEST02_24810320250_KhongMinhHieu
 ---
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
@@ -95,7 +95,7 @@
 
 1. **Clone Repository về máy:**
    ```bash
-   git clone https://github.com/truong-blue/LTNET-TEST02_24810320290_NguyenHuuTruong.git
+   git clone https://github.com/khongminhhieu1805/LTNET-TEST02_24810320250_KhongMinhHieu
    ```
 
 2. **Mở Solution:**
